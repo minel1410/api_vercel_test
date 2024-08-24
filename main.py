@@ -24,7 +24,7 @@ class BrandModel(BaseModel):
 
 class ModelRequest(BaseModel):
     Mileage: int
-    Engine_volume: int
+    Engine_volume: float
     Engine_power: int
     Registered: bool
     Year: int
