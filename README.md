@@ -1,6 +1,8 @@
 # [Car Price Predictor API](https://price-predictor-model-api.onrender.com)
 
-## Note: Since the API is hosted on Renderer, the loading time could take up to 2 minutes on the initial request.
+## Note 
+
+Since the API is hosted on Renderer, the loading time could take up to 2 minutes on the initial request.
 
 ## Overview
 
